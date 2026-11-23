@@ -35,7 +35,7 @@ A random sample from Companies House is full of dormant or tiny companies that s
 - **`MICRO_CONTROL`** (`MICRO ENTITY`, `DORMANT`, `NO ACCOUNTS FILED`) — control group, low chance of having a VAT number.
 
 ### Pipeline Design
-When I first ran HMRC checks directly inside the crawler, the script kept stalling on `HTTP 429`. Splitting discovery and verification into two separate scripts with resume support fixed that completely:
+Instead of coupling web crawling with HMRC lookups in a single loop, I split the pipeline into two separate stages with resume support. This doesn't avoid HMRC's `HTTP 429` rate limits (which still kick in after ~40–45 requests per IP), but it keeps rate-limit retries and timeouts from blocking web discovery or losing progress:
 
 1. **Stage 1 — Discovery (`src/discover.py` → `data/candidates.csv`)**
    - Strips legal suffixes (`LIMITED`, `LTD`, punctuation) and searches using company name + town to find up to 3 candidate websites (ignoring registries, directories, and social media).
