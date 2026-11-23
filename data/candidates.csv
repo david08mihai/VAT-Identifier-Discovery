@@ -1,0 +1,301 @@
+stratum,company_number,company_name,postcode,website_found,company_num_on_site,candidate_count,candidates_json,crawl_note
+LARGE_MEDIUM,16188805,OGM MOULDING LIMITED,OX5 1QU,https://ogm.uk.com,True,0,[],
+LARGE_MEDIUM,08394165,EVERLAST (GROUP) LIMITED,LS10 1DJ,https://everlastgroup.co.uk,True,1,"[{""vat"": ""859241208"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://everlastgroup.co.uk/""}]",
+LARGE_MEDIUM,00610201,COSTAIN LIMITED,EC3A 8BE,https://www.costain.com,True,1,"[{""vat"": ""235983531"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.costain.com/contact-us/""}]",
+LARGE_MEDIUM,03968109,IP TELECOM LIMITED,IP1 4JQ,https://iptelecom.ie,False,1,"[{""vat"": ""274982162"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.gov.uk/hmrc-internal-manuals/vat-place-of-supply-services/vatposs15300""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,NI005192,ULSTER SUPPORTED EMPLOYMENT LIMITED,BT13 3JH,https://www.usel.co.uk,True,1,"[{""vat"": ""252979717"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.usel.co.uk/""}]",
+LARGE_MEDIUM,SC493523,HORIZON (GP) LIMITED,EH2 4AN,https://koraso.com,False,2,"[{""vat"": ""567274510"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB567274510""}, {""vat"": ""302111581"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB567274510""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,06259105,HALA (SOUTH) LIMITED,SL6 1SF,https://www.halarestaurant.co.uk,False,1,"[{""vat"": ""911830547"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB911830547""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,01555423,KANE INTERNATIONAL LIMITED,AL7 1GF,https://www.kane.co.uk,True,2,"[{""vat"": ""491001678"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.kane.co.uk/about-kane/terms-and-conditions""}, {""vat"": ""100205890"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB491001678""}]",
+LARGE_MEDIUM,11519981,EQUITIX INFRASTRUCTURE 3C LIMITED,EC1A 4HD,https://www.pappers.co.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,13126020,NURSERY ROAD CAPITAL MANAGEMENT LIMITED,E1 8EU,https://www.nurseryroadcapital.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,05278053,RAMSGATE BREWERY LIMITED,CT10 2YD,https://beer-bible.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,14742087,BRETT@HAIRLOUNGE LIMITED,PO30 1LQ,https://www.credencedata.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,11939296,FROME MEDICAL PRACTICE C.I.C.,BA11 2FH,https://www.fromemedicalpractice.co.uk,True,0,[],
+SMALL,15133231,AR CERAMIC TILING LIMITED,CM9 4GD,https://arceramictiling.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,13188774,JAB MOORE LTD,LS8 2JJ,https://www.jabpensions.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,02907126,EUROSOLVE LIMITED,CF83 3GG,https://www.eurosolve.com,True,0,[],
+SMALL,04106976,RUBYKON LIMITED,SE12 8LJ,,False,1,"[{""vat"": ""872331725"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB872331725/CompanyName/RUBYKON+LTD""}]",SEARCH_FAILED
+SMALL,08986288,DH SECURITY SYSTEMS LIMITED,DE14 1DU,https://companystack.co.uk,False,1,"[{""vat"": ""190503916"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB190503916""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,06845910,PLANS WRITTLE LTD,E11 2DL,https://www.writtle.com,False,2,"[{""vat"": ""848698845"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.writtle.com/""}, {""vat"": ""339544084"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB339544084""}]",SITE_NOT_CONFIRMED
+SMALL,11681355,LORGWOOD LIMITED,SM6 7AH,https://www.gbrbusiness.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,13500851,HIB CONSULTANCY LTD,N22 7BE,https://companieshub.co.uk,False,1,"[{""vat"": ""544683521"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB878386261""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,15803446,EVERGREEN GROUPUK LTD,NG5 9RW,https://evergreengroup.uk,True,0,[],
+MICRO_CONTROL,15578508,JULIE’S VALET & DETAILING LTD,W4 5PY,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,13847319,CT13847319 LIMITED,WC1N 3AX,https://fnce.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,15116997,GOOD FRIENDS TAKEAWAY LIMITED,W1G 0JR,https://goodfriendtakeaway.co.uk,False,1,"[{""vat"": ""409111923"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.gov.uk/guidance/catering-takeaway-food-and-vat-notice-7091""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,11478047,AVRAAM & LANGTON LTD,N14 4XA,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,13093903,WALPOLE DESIGNED DEVELOPMENTS LIMITED,TW10 5LA,https://walpoledesigneddevelopments.co.uk,False,0,[],LOW_TEXT_JS_SITE SITE_NOT_CONFIRMED
+MICRO_CONTROL,12836372,SCALA HOUSE MANAGEMENT COMPANY LTD,OX2 7ED,https://www.pappers.co.uk,False,2,"[{""vat"": ""948317202"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB948317202""}, {""vat"": ""689967925"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB948317202""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,SC568467,RRT1 LTD.,DD4 9UB,https://www.thewhitespace.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,13322163,ART WHICH LTD,W1W 5PF,https://www.artwhich.com,False,0,[],LOW_TEXT_JS_SITE SITE_NOT_CONFIRMED
+LARGE_MEDIUM,FC032662,SURTAS EUROPE,,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,12458627,CEI 8 PR HOLDCO LIMITED,WA1 1RL,https://www.gbrbusiness.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,00793018,MOULTON BULB COMPANY LIMITED,PE12 6PP,https://www.findglocal.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,15921233,PROJECT ORION NOTECO LIMITED,LS1 2ES,https://companystack.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,15184324,LW LENDCO PLC,SW1W 0HH,https://lendco.co.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,11948459,THE BARRISTERS' FOUNDATION,WC1V 7HZ,https://www.barcouncil.org.uk,True,0,[],
+LARGE_MEDIUM,04344380,A2O LIMITED,CM15 0LA,https://a2ogroup.co.uk,True,3,"[{""vat"": ""989916826"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://vat-finder.co.uk/verify/vat_check.php/VATNumber/GB989916826""}, {""vat"": ""245152328"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB245152328""}, {""vat"": ""805594321"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://vatsearch.co.uk/verify/vat_check.php/VATNumber/GB805594321""}]",
+LARGE_MEDIUM,06035820,SHEFFIELD THEATRES CRUCIBLE TRUST,S1 1DA,https://www.sheffieldtheatres.co.uk,True,2,"[{""vat"": ""911476141"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.sheffieldtheatres.co.uk/about/contact-us""}, {""vat"": ""194266383"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB194266383/CompanyName/SHEFFIELD+THEATRES+CRUCIBLE+TRUST""}]",
+LARGE_MEDIUM,01711117,LAINSTON HOUSE LIMITED,GU19 5EU,https://www.exclusive.co.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,03216065,SEREN LABORATORY SERVICES LIMITED,WV9 5GB,https://companystack.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,08477679,BE THE FOX LIMITED,BN1 3TS,https://www.bethefox.co.uk,True,1,"[{""vat"": ""164041242"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB164041242""}]",
+SMALL,03436482,COBA RESOURCING LTD,NN3 6WL,https://cobaresourcing.com,False,0,[],LOW_TEXT_JS_SITE SITE_NOT_CONFIRMED
+SMALL,10380545,LISA ROSE 101 LIMITED,NR1 1UA,https://www.ukpostcodecheck.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,SC492696,NINJA SUSHI LTD,AB10 6SQ,https://www.sharkninja.co.uk,False,3,"[{""vat"": ""275818367"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB275818367""}, {""vat"": ""353361510"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB973969056""}, {""vat"": ""881803901"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB973969056""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,05273387,KESWICK HOLIDAY HOMES LIMITED,CA13 0QT,https://keswickholidayhomes.co.uk,True,0,[],
+SMALL,06067866,LEEDS TAXI OWNERS LTD,LS11 5HL,https://www.bing.com,False,1,"[{""vat"": ""905299215"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB905299215""}]",LOW_TEXT_JS_SITE SITE_NOT_CONFIRMED
+SMALL,SC641129,THISTLE PLUMBING AND HEATING LTD,G75 8JY,https://www.bing.com,False,0,[],LOW_TEXT_JS_SITE SITE_NOT_CONFIRMED
+SMALL,10723029,LANCASTER GOLF PERFORMANCE CENTRE LTD,LA2 0AJ,https://lancaster.golf,True,0,[],
+SMALL,05314841,TOUCHLINE MARKING SYSTEMS LIMITED,B76 0DA,https://www.touchlinemarking.com,True,1,"[{""vat"": ""850404455"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB850404455""}]",
+SMALL,11876683,MARTEN SERVICE LTD,M28 7JB,http://martenltd.com,True,0,[],
+MICRO_CONTROL,14098561,THE DIGITAL COLLECTIVE GROUP LIMITED,N17 0HW,https://digico-group.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,NI670837,FUSION-NI LTD,BT48 6PW,https://www.arcgis.com,False,0,[],LOW_TEXT_JS_SITE SITE_NOT_CONFIRMED
+MICRO_CONTROL,15509640,ECO STUDIOS (SOUTH EAST) LTD,BN1 5NP,https://ecostudios.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,05562485,R & S MOTORS (ASHFORD) LIMITED,TW15 3NN,https://garagematch.co.uk,False,1,"[{""vat"": ""154407423"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://garagematch.co.uk/""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,12744660,QV CC LIMITED,NG31 8LJ,https://www.bing.com,False,0,[],LOW_TEXT_JS_SITE SITE_NOT_CONFIRMED
+MICRO_CONTROL,15288552,WHEATHILL ESTATES LIMITED,E5 9DY,https://rooplex.co.uk,False,0,[],SITE_UNREACHABLE SITE_NOT_CONFIRMED
+MICRO_CONTROL,12660787,CRAIGYDWI LTD,SA7 0HP,https://metadata.craigydwi.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,06811700,MARY LUXE LTD,SE16 2QD,https://www.maryluxe.de,False,2,"[{""vat"": ""222048841"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB222048841""}, {""vat"": ""220474637"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB220474637""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,15112404,ALPARSLAN TURK LTD,N14 6HF,,False,0,[],NO_WEBSITE_FOUND
+MICRO_CONTROL,13573849,SWIFTCREAM LTD,SK13 8LZ,https://swiftcream.co.uk,False,3,"[{""vat"": ""820617257"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB820617257/CompanyName/CREAM+(UK)+LIMITED""}, {""vat"": ""350662804"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB820617257/CompanyName/CREAM+(UK)+LIMITED""}, {""vat"": ""462229651"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB820617257/CompanyName/CREAM+(UK)+LIMITED""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,00964668,WEENER PLASTICS NORWICH LTD.,NR28 0TY,https://www.norfolkchamber.co.uk,False,1,"[{""vat"": ""105609687"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB105609687""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,14251101,FOLK COMMERCE LIMITED,EC4R 3TT,https://www.ukcompanydir.com,False,1,"[{""vat"": ""424617993"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB424617993""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,10129676,VIMN FINANCE HOLDING (UK) LTD,NW1 8TT,https://vimnfinanceholding.com,False,0,[],SITE_UNREACHABLE SITE_NOT_CONFIRMED
+LARGE_MEDIUM,03736942,1ST WASTE MANAGEMENT CONSULTANTS LIMITED,SG14 1BP,https://www.1stwaste.co.uk,True,1,"[{""vat"": ""349867143"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB879136481/CompanyName/1ST+WASTE+MANAGEMENT+LTD""}]",
+LARGE_MEDIUM,11718118,XPO HOLDINGS UK II LIMITED,NN6 7SL,https://www.gbrbusiness.com,False,1,"[{""vat"": ""135311744"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB581379120/CompanyName/GXO+LOGISTICS+UK+LIMITED""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,SC316910,CLYDE IMPORTERS (SCOTLAND) LIMITED,G41 1RR,https://clydeimporters.co.uk,True,1,"[{""vat"": ""911075066"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://clydeimporters.co.uk/""}]",
+LARGE_MEDIUM,02139984,LTM (WESTERN) LIMITED,B37 7ES,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,03423340,GSH HOLDINGS LIMITED,PE7 1PD,,False,0,[],SEARCH_FAILED
+LARGE_MEDIUM,02638704,RIDGEWAY FACADES LTD,GL2 2AD,https://rooplex.co.uk,False,0,[],SITE_UNREACHABLE SITE_NOT_CONFIRMED
+LARGE_MEDIUM,07110700,SWM UK WIND ONE LIMITED,BR8 7AG,https://www.gbrbusiness.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,03483019,SJM DEVELOPMENTS LIMITED,WA14 1GY,https://sjmdevelopments.com,False,1,"[{""vat"": ""341032063"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB341032063/CompanyName/SJM+DEVELOPMENTS+(SOUTHEAST)+LTD""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,08435420,MM ENERGY LTD,NW3 3AY,,False,0,[],SEARCH_FAILED
+LARGE_MEDIUM,FC029148,CISCO SYSTEMS FINANCE INTERNATIONAL UNLIMITED COMPANY,,https://www.thegazette.co.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,15461754,WEAVER TOPCO LIMITED,W1W 8HJ,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,14857880,ISTEP LEARNING PLC,EC2R 5BJ,https://isteplearning.co.uk,True,0,[],
+LARGE_MEDIUM,15124108,VTE OPCO LIMITED,W1T 2NS,https://www.companyinspect.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,11976839,OSB GROUP PLC,ME4 4QZ,https://www.osb.co.uk,True,0,[],
+LARGE_MEDIUM,08833004,TRIDENT 2020 LIMITED,LE12 9NH,http://www.datalog.co.uk,False,1,"[{""vat"": ""339993635"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB339993635""}]",SITE_UNREACHABLE SITE_NOT_CONFIRMED
+LARGE_MEDIUM,01878835,AUTOMOBILE ASSOCIATION DEVELOPMENTS LIMITED,RG21 4HG,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,NI015858,GRAY & ADAMS (IRELAND) LIMITED,BT36 4TP,https://www.gray-adams.com,False,1,"[{""vat"": ""375756802"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://vatsearch.co.uk/verify/vat_check.php/VATNumber/GB375756802""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,04432970,ANDREW HOPKINS CONCRETE LIMITED,BA22 7AB,https://www.ahopkinsconcrete.co.uk,False,1,"[{""vat"": ""820679325"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB820679325""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,SF000910,CHRYSAOR (U.K.) LAMBDA LIMITED,,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,SC738038,KENNEDY CARE GROUP (HOLDINGS) LIMITED,DD8 2AD,https://www.kennedycaregroup.co.uk,True,0,[],
+LARGE_MEDIUM,13705194,ON RUNNING UK LTD,E1 6BP,https://www.on.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,02352523,GEORGE UTZ LIMITED,DE55 4QT,https://www.utzgroup.co.uk,True,1,"[{""vat"": ""543777024"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.utzgroup.co.uk/disclaimer/""}]",
+LARGE_MEDIUM,11087173,ASK (FIRST STREET) LIMITED,M15 4JQ,https://www.askrealestate.co.uk,True,0,[],
+LARGE_MEDIUM,NI033129,EXPRESS DISTRIBUTION SERVICES LTD,BT66 6SY,https://edsni.co.uk,True,1,"[{""vat"": ""706779306"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://vat-finder.co.uk/verify/vat_check.php/VATNumber/GB706779306""}]",
+LARGE_MEDIUM,01246369,OMEX AGRICULTURE LIMITED,LN3 5TP,https://omexagrifluids.com,True,1,"[{""vat"": ""555567313"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://omexagrifluids.com/terms-conditions/""}]",
+LARGE_MEDIUM,05226585,IM AUTOMATION SYSTEMS LIMITED,SS13 1QE,https://imasautomation.co.uk,True,0,[],
+LARGE_MEDIUM,01477486,PEKTRON PLC,DE21 4AP,https://www.pektron.com,False,3,"[{""vat"": ""354518744"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB354518744""}, {""vat"": ""125924371"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB125924371""}, {""vat"": ""343485100"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB343485100/CompanyName/PEKTRON+SEV+LIMITED""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,06014149,MRP TECHNOLOGY LIMITED,IG8 8EY,https://ico.org.uk,False,1,"[{""vat"": ""931422845"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB931422845/CompanyName/MRP+TECHNOLOGY+LTD""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,12314857,MAXTON TOPCO LIMITED,SW19 7QD,https://scoriff.co.uk,False,3,"[{""vat"": ""191105336"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB191105336/CompanyName/MAXTON+DESIGN+LTD""}, {""vat"": ""409498168"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB191105336/CompanyName/MAXTON+DESIGN+LTD""}, {""vat"": ""345235020"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB191105336/CompanyName/MAXTON+DESIGN+LTD""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,SC118464,THE MOUNT STUART TRUST,EH3 8EJ,https://www.mountstuart.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,04698814,TEMPUR SEALY INTERNATIONAL LIMITED,UB8 1JG,https://www.gbrbusiness.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,03207868,ROUNDHOUSE DESIGN LIMITED,W1U 1PE,https://roundhousedesign.com,True,1,"[{""vat"": ""830401870"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://vat-finder.co.uk/verify/vat_check.php/VATNumber/GB830401870""}]",
+LARGE_MEDIUM,09614869,I&C HOLDINGS LIMITED,EX7 0NH,https://rooplex.co.uk,False,0,[],SITE_UNREACHABLE SITE_NOT_CONFIRMED
+LARGE_MEDIUM,09142569,RENEWI EUROPEAN HOLDINGS LIMITED,N1C 4AG,https://theaccounts.uk,False,1,"[{""vat"": ""259547713"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://vat-finder.co.uk/verify/vat_check.php/VATNumber/GB259547713""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,05966431,CASPIAN SUNRISE PLC,EC4A 3TW,https://www.caspiansunrise.com,True,0,[],
+LARGE_MEDIUM,05933624,FANATICS (INTERNATIONAL) LIMITED,M4 6FN,https://www.fanaticsinc.com,True,1,"[{""vat"": ""234152733"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-lookup.com/verify/vat_check.php/VATNumber/GB234152733""}]",
+LARGE_MEDIUM,01611861,DONMAR WAREHOUSE PROJECTS LIMITED,WC2E 9NA,https://www.donmarwarehouse.com,True,1,"[{""vat"": ""199904740"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.donmarwarehouse.com/contact-us""}]",
+LARGE_MEDIUM,09719009,APRIROSE TRADING HOLDING LIMITED,HA8 7EQ,https://www.aprirosetrading.com,True,0,[],
+LARGE_MEDIUM,FC037674,BLACKWOOD NEWCO LIMITED,JE4 8PX,https://www.jerseyfsc.org,False,1,"[{""vat"": ""351581014"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB462183692""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,14285989,AUTUMN GARDENS CARE LTD,N13 4XS,https://www.autumn-gardens.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,10269535,LEARNING WITHOUT LIMITS ACADEMY TRUST,LE2 6FU,https://www.lwlat.org.uk,True,0,[],
+LARGE_MEDIUM,00493783,ARVILLE TEXTILES LIMITED,LS22 7DQ,https://arville.com,True,1,"[{""vat"": ""482005569"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://arville.com/terms-of-use/""}]",
+LARGE_MEDIUM,16275775,ALLISON (LONGMOOR) DEVELOPMENT LIMITED,PE7 8FD,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,03798905,MALABAR HILL UNDERWRITING LIMITED,EC3V 0XL,https://indiaipo.jpmorgan.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,08732701,APPLEBRIDGE CONSTRUCTION LIMITED,TS3 6AG,https://applebridge.com,True,2,"[{""vat"": ""446744371"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB373140811""}, {""vat"": ""215449023"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB373140811""}]",
+LARGE_MEDIUM,15909999,ADEPTIO LAW GROUP LIMITED,WV2 4DN,https://www.adeptiolaw.co.uk,True,1,"[{""vat"": ""124302954"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.thebusinessdesk.com/westmidlands/news/2115690-wolverhamptons-adeptio-law-group-appoints-chief-technology-officer""}]",
+LARGE_MEDIUM,OC347017,GLOBAL INFRASTRUCTURE MANAGEMENT LLP,EC2R 7HJ,https://www.global-infra.com,True,0,[],
+LARGE_MEDIUM,10204731,ALARIC SECURITIES (UK) LTD,EC4M 7WS,https://alaricsecurities.com,True,0,[],
+LARGE_MEDIUM,01949696,NATIONAL EXPRESS TRAINS LIMITED,B5 6DD,https://www.nationalexpress.com,True,0,[],
+LARGE_MEDIUM,03589905,FIRESTONE DIAMONDS LIMITED,BN99 3HH,https://firestonediamonds.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,04320746,WELLINGTON REAL ESTATE LIMITED,DY6 7NA,https://www.rightmove.co.uk,False,1,"[{""vat"": ""918501823"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.rightmove.co.uk/c/terms-of-use/""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,FC023886,HSBC INVESTMENT BANK HOLDINGS B.V.,E14 5HQ,https://www.creditsafe.com,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,06808451,NATIONAL LOCUMS LTD,MK8 8ED,https://www.nationallocums.co.uk,True,0,[],
+LARGE_MEDIUM,13221393,RALPH MIDCO LIMITED,HX3 6AQ,https://search.menna.ai,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,NI062901,P MCK LTD,BT71 7EQ,https://www.pmkelectrical.com,True,1,"[{""vat"": ""412636573"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB412636573""}]",
+LARGE_MEDIUM,10605234,TIM MIDCO LIMITED,KT6 4BH,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,13541047,LANIER THEOLOGICAL EDUCATION FOUNDATION,OX5 1PY,https://yarntonmanor.org,True,0,[],
+LARGE_MEDIUM,02519047,REGIONAL AIRPORTS LIMITED,RG29 1TL,https://commonslibrary.parliament.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,13882774,TRINITY DEBT HOLDINGS LIMITED,M2 4LQ,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,03072135,MOLLART-COX ENGINEERING LIMITED,S41 9QJ,https://www.mollartcox.co.uk,True,1,"[{""vat"": ""657951686"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB657951686""}]",
+LARGE_MEDIUM,03625946,AUTOMOTIVE LIGHTING UK LIMITED,SA14 8HU,https://autodata.gasgoo.com,False,1,"[{""vat"": ""715466627"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB715466627""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,06113307,EVOLUTION LENDING LIMITED,M1 3BE,https://www.evolutionlending.co.uk,True,0,[],
+LARGE_MEDIUM,03842464,HAMILTON ALLEN ASSOCIATES LIMITED,LL29 8LG,https://www.hamiltonassociatesuk.com,False,0,[],SITE_UNREACHABLE SITE_NOT_CONFIRMED
+LARGE_MEDIUM,04948659,BARNET HOMES LIMITED,NW9 4EW,http://www.barnethomes.org,True,0,[],
+LARGE_MEDIUM,16034264,HORNSEA THREE HOLDINGS LIMITED,SW1P 1WG,https://www.ukcompanydir.com,False,1,"[{""vat"": ""408157307"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB214303754""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,03640941,MERITOR HEAVY VEHICLE BRAKING SYSTEMS (UK) LIMITED,NP44 3XU,https://www.cummins.com,False,1,"[{""vat"": ""161583366"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://vat-finder.co.uk/verify/vat_check.php/VATNumber/GB161583366""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,09188369,ONEFAMILY ADVICE LIMITED,BN1 2RL,https://www.onefamily.com,True,0,[],
+LARGE_MEDIUM,07459575,THE VILLA HOLDINGS LIMITED,FY4 5PR,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,05281855,OAKHAM WEALTH MANAGEMENT LTD,W1J 6BD,https://oakhamwealth.com,True,1,"[{""vat"": ""863217329"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://vatsearch.co.uk/verify/vat_check.php/VATNumber/GB863217329/CompanyName/OAKHAM+WEALTH+MANAGEMENT+LTD""}]",
+LARGE_MEDIUM,07882763,MCFINLAY LIMITED,PE6 9PT,https://lamaisonduchausseur.fr,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,04332089,MDW HOLDINGS LIMITED,NP18 2BS,https://www.mdw-ltd.co.uk,True,0,[],
+LARGE_MEDIUM,12599331,BABAWEST LTD,PR2 2YP,https://www.babawest.co.uk,False,1,"[{""vat"": ""382417100"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB382417100""}]",SITE_NOT_CONFIRMED
+LARGE_MEDIUM,13542224,ESSENTIAL ACCESS PLATFORMS LIMITED,M28 3LY,https://www.essentialaccessplatforms.co.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,FC039669,"MONUMENT RESOURCES LIMITED, UK BRANCH",,https://www.datocapital.uk,False,0,[],SITE_NOT_CONFIRMED
+LARGE_MEDIUM,06077937,OAG LIMITED,HP11 2EE,https://www.oag.uk.com,True,2,"[{""vat"": ""224364622"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB224364622""}, {""vat"": ""376978575"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB376978575/CompanyName/W+&+A+OAG""}]",
+LARGE_MEDIUM,04251934,BRIGHTON & HOVE CITY SCHOOLS SERVICES LIMITED,BS1 6NP,https://www.bizseek.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+LARGE_MEDIUM,12328086,PROFESSIONALS AT PLAY LTD,LS16 6RF,https://professionalsatplay.co.uk,True,0,[],
+SMALL,12587834,BELVER PROPERTIES LIMITED,YO25 6RA,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,14518883,ASHLEY MOTOR REPAIRS LIMITED,BH25 5AQ,https://www.ashleymotorrepairs.com,True,1,"[{""vat"": ""454556964"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB454556964""}]",
+SMALL,15804277,KINCH'S COFFEE BAR & BISTRO LTD,TF1 1EB,https://shropshirepages.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,05922746,HAVEN PROPERTY COMPANY LIMITED,S64 9DU,,False,0,[],SEARCH_FAILED
+SMALL,07587581,PARAGON OAK LIMITED,WF14 8HE,https://paragonoak.com,True,1,"[{""vat"": ""122839418"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB122839418/CompanyName/PARAGON+OAK+LIMITED""}]",
+SMALL,03379408,HAMMOND (ECS) LIMITED,CF44 0AE,https://www.hammondecs.com,False,2,"[{""vat"": ""692453610"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB692453610""}, {""vat"": ""945355112"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB207925362""}]",SITE_NOT_CONFIRMED
+SMALL,15650329,SKYLAR 23 LTD,E2 0AA,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,12153173,AFFINITY FUTURES LTD,HU10 7NX,https://affinityfutures.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,14490696,EXITUS HOLDING 2 LIMITED,NW6 3JL,https://www.globalbankingandfinance.com,False,1,"[{""vat"": ""112596621"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.globalbankingandfinance.com/about-us/""}]",SITE_NOT_CONFIRMED
+SMALL,13049166,SBI (SEA BUNKERING INTERNATIONAL) LIMITED,HU8 7JJ,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,SC269058,MCLEOD & AITKEN EDINBURGH LTD.,EH2 4JB,,False,0,[],SEARCH_FAILED
+SMALL,12351133,EUROSPEAK ACADEMY LTD,SL9 8TL,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,10882753,BNS CONSTRUCTION LTD,TW2 7LD,https://www.checkatrade.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,13136285,COLIN'S LEAP LIMITED,SO51 6FB,https://www.colinsleap.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,13454555,RK ENTERPRISES LONDON LTD,RM7 9JB,https://scoriff.co.uk,False,3,"[{""vat"": ""842021765"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB842021765""}, {""vat"": ""194519085"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB842021765""}, {""vat"": ""413818895"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB842021765""}]",SITE_NOT_CONFIRMED
+SMALL,SC497239,FITSMART FITNESS LIMITED,PA3 3BB,https://www.bizstats.co.uk,False,0,[],SITE_UNREACHABLE SITE_NOT_CONFIRMED
+SMALL,06944501,MODUS LABORATORIES LIMITED,GU9 7PT,https://moduslaboratories.com,False,1,"[{""vat"": ""974439773"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB974439773""}]",SITE_NOT_CONFIRMED
+SMALL,08276458,VEMCO CONSULTING LTD,CB4 0WX,https://vemcoconsulting.com,True,1,"[{""vat"": ""153085423"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB153085423""}]",
+SMALL,SC147397,POSITIVE LEADERSHIP LIMITED,PH1 1WQ,https://wundertraining.com.au,False,0,[],SITE_NOT_CONFIRMED
+SMALL,04621433,SCHOOLWEAR PLUS LIMITED,SS9 2RZ,https://schoolwearplus.com,False,1,"[{""vat"": ""802943832"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB802943832""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,03696465,LOGOTEK SYSTEMS LIMITED,EC4R 2SU,https://logotek-gmbh.de,False,1,"[{""vat"": ""731392838"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB731392838""}]",SITE_NOT_CONFIRMED
+SMALL,13526512,LAM FOOD & FIBRE LIMITED,CB7 5LL,https://www.lam.uk.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,15352012,BUCKET STUDIO LTD,CR0 0XZ,https://www.bucketstudio.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,10009705,MJF LEGAL SERVICES LIMITED,SW11 3AP,https://www.bing.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,NI060855,AM PROPERTY MANAGEMENT (NI) LTD,BT4 2AN,https://www.ampmni.com,True,2,"[{""vat"": ""130510081"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB130510081""}, {""vat"": ""972774181"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB972774181""}]",
+SMALL,13801680,BRUCE LETTINGS LIMITED,GL51 6TQ,https://companytrack.com,False,1,"[{""vat"": ""660983704"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB660983704""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,10916034,NORTH LONDON YOGA CENTRE LTD,EN5 4DX,https://www.northlondonyogacentre.com,False,1,"[{""vat"": ""329156200"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB329156200""}]",SITE_NOT_CONFIRMED
+SMALL,14174785,MASTAPLEX UK LIMITED,WC1N 2EB,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,11091685,ALTERNATIVE ELEMENT PROPERTIES LIMITED,N13 5RY,https://www.ukcompanydir.com,False,2,"[{""vat"": ""783101056"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB783101056""}, {""vat"": ""304549709"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB783101056""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,13799109,THE CASTLE GROUP (NW) LIMITED,TS23 4EA,,False,0,[],SEARCH_FAILED
+SMALL,NI615017,FMC AUCTIONS LTD,BT53 6JR,https://www.easyliveauction.com,False,1,"[{""vat"": ""992766263"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB992766263""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,14368746,BEAUMONT AND PARTNERS 015 LTD,DL3 7BJ,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,04318655,RM & N WAINWRIGHT & SON LIMITED,CA4 0EU,,False,0,[],NO_WEBSITE_FOUND
+SMALL,15963584,BUILD FEED LIMITED,WR9 9AY,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,06164515,DAKS INSPECTION LIMITED,SA11 3XD,https://www.bizseek.co.uk,False,2,"[{""vat"": ""349330691"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.gov.uk/vat-visits-inspections""}, {""vat"": ""351337320"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.gov.uk/vat-visits-inspections""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,08168564,BECKSIDE DEVELOPMENTS LIMITED,YO42 2BS,,False,1,"[{""vat"": ""154262816"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB154262816""}]",NO_WEBSITE_FOUND
+SMALL,04663670,PALACE COURT CAR PARKS LIMITED,W2 4JA,https://www.bizseek.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,11260678,AJVANI INVESTMENTS LIMITED,BL1 5BR,https://www.pappers.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,14808363,MARTIN BLACKBURN AKA MARBLACK LTD,IP28 7DE,https://www.northdata.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,14117702,PIGEON CAPITAL MANAGEMENT 2000 LTD,CB1 2LA,https://www.pigeon.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,08310034,MSSQ LTD,HX1 3AN,https://www.ukpostcodecheck.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,10403063,SILDAR LTD,LE3 5HA,https://www.northdata.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,07293047,CREDWARE RISK SOLUTIONS LIMITED,WA1 1RG,https://rooplex.co.uk,False,1,"[{""vat"": ""995580657"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB995580657""}]",SITE_UNREACHABLE SITE_NOT_CONFIRMED
+SMALL,14474955,JONATHON TURNER DEVELOPMENTS LTD,RG19 3JG,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,15003040,A&J GLOBAL VENTURES LTD,TR1 3BX,https://www.bing.com,False,1,"[{""vat"": ""893392481"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB893392481""}]",SITE_NOT_CONFIRMED
+SMALL,13603910,TASHA'S HAIR & BEAUTY LTD,NR12 9AQ,https://www.tashashairandbeautysalon.com,True,0,[],
+SMALL,09312273,ALFAGATES SERVICES LIMITED,KT11 2LA,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,15512635,NORWOOD CLEANING CENTRE LTD,SE27 9AE,https://norwood.co.uk,False,3,"[{""vat"": ""237796166"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB237796166/CompanyName/NORWOOD+LTD""}, {""vat"": ""238079096"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB237796166/CompanyName/NORWOOD+LTD""}, {""vat"": ""228201244"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB237796166/CompanyName/NORWOOD+LTD""}]",SITE_NOT_CONFIRMED
+SMALL,00404389,BEES INVESTMENTS LIMITED,LS1 2JG,https://beesinvestment.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,16073505,ACR BUILDING & DEVELOPMENT LIMITED,SA3 4RU,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,14375351,OPTIMISE HEALTHCARE FRANCHISE LIMITED,WA3 6WP,,False,0,[],SEARCH_FAILED
+SMALL,06886779,T & T ESTATE MANAGEMENT LTD,PR9 0NS,https://tt-estates.com,True,0,[],
+SMALL,13252358,RPJM HOLDINGS LTD,SS11 8EE,,False,0,[],NO_WEBSITE_FOUND
+SMALL,07954574,MAXI MOTOR LIMITED,WA14 5LY,https://garagematch.co.uk,False,1,"[{""vat"": ""154407423"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://garagematch.co.uk/""}]",SITE_NOT_CONFIRMED
+SMALL,OC453470,CARVER ESTATE LLP,TW4 7AA,https://www.pappers.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,06896028,LYONS RECRUITMENT LIMITED,LS17 8RE,https://www.lyonsrecruitment.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,10355585,KALSI ESTATES LIMITED,HP9 1EU,https://jars.lt,False,0,[],SITE_NOT_CONFIRMED
+SMALL,13887525,CLAYTON ROSE DEVELOPMENT LIMITED,PR7 7NN,https://claytonrosedevelopment.co.uk,True,0,[],
+SMALL,07893542,SREEVIJAY LTD,CT1 3AA,https://immigrationgpt.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,08687762,MONEYTAP UK LIMITED,SW17 7LS,https://www.companieshousedata.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,10046447,STORAGE AND FULFILMENT SERVICES LIMITED,WS7 3XB,https://burntwood.cylex-uk.co.uk,False,1,"[{""vat"": ""338871366"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB338871366""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,16205073,GREENTEC AUTO LIMITED,M3 7BG,https://greentecauto.co.uk,True,0,[],
+SMALL,SC751361,STEWOGO LIMITED,EH3 6AD,https://companieshub.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,15677136,ATRAVELSYEARLY LTD,UB6 0SP,,False,0,[],SEARCH_FAILED
+SMALL,13628309,TRUFFLES INVESTMENTS LIMITED,BN5 9XE,,False,0,[],NO_WEBSITE_FOUND
+SMALL,SC502456,SIMPSON FARMS LIMITED,EH12 5EQ,,False,2,"[{""vat"": ""753204651"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB753204651""}, {""vat"": ""885253005"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB753204651""}]",NO_WEBSITE_FOUND
+SMALL,08786346,RED RIVER INTERIORS LIMITED,RH13 5QH,,False,0,[],SEARCH_FAILED
+SMALL,10934375,ALIF MIDLANDS LIMITED,E1 1DB,https://1stdirectory.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,07922962,INNERSUMMIT LTD,TS17 6FB,,False,1,"[{""vat"": ""142347725"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB142347725""}]",SEARCH_FAILED
+SMALL,06437162,SPS SUBSTRUCTURE PROTECTION LIMITED,OL3 5PJ,https://spsltd.co.uk,True,1,"[{""vat"": ""923888875"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB923888875""}]",
+SMALL,16493799,PROTOUCH FOAM VALETING LTD,SL1 1YW,https://garagematch.co.uk,False,1,"[{""vat"": ""154407423"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://garagematch.co.uk/""}]",SITE_NOT_CONFIRMED
+SMALL,08655339,DDM CARE LIMITED,NR5 9PT,https://bringo.co.uk,False,1,"[{""vat"": ""477815250"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://bringo.co.uk/about""}]",SITE_NOT_CONFIRMED
+SMALL,11713177,TAWAZUN HEALTH LTD,CR0 1QG,https://tawazunhealth.com,True,0,[],
+SMALL,04616184,THE HEVENINGHAM COLLECTION LIMITED,W1S 4AP,https://www.heveningham.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,10869746,BIRDING THE ISLANDS LTD,YO12 5EA,http://www.birdingtheislands.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,08312807,CROSSMEADS LIMITED,PO19 7BB,https://crossmeads.co.uk,False,2,"[{""vat"": ""158914672"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB158914672""}, {""vat"": ""337458281"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB158914672""}]",SITE_NOT_CONFIRMED
+SMALL,08092200,GOLDLINE TRAVEL LIMITED,CT9 3QE,https://www.goldlineexecutivetravel.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,04878339,NICK FIRTH TILES LIMITED,S9 2SP,https://nickfirthtiles.com,True,0,[],
+SMALL,11321304,STEPS SUPPORTED LIVING LIMITED,M1 5AN,https://www.nextstepsuk.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,13115637,ASHLEY STREATHER HOROLOGY LTD,HP7 9PN,https://www.ukclocks.com,True,0,[],
+SMALL,13308909,CUBICO UK DEVELOPMENT LIMITED,EC3A 8BE,https://ukcubicoinvest.com,True,1,"[{""vat"": ""251913318"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-search.co.uk/Inn+F/Cubico-Group-Limited""}]",
+SMALL,14343031,ANYLET LTD,GL3 3RS,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,05857345,IMMIGRATION LAW PRACTICE LIMITED,SE18 1SJ,https://immigrationlawpractice.us,False,0,[],SITE_NOT_CONFIRMED
+SMALL,10905921,MILITARY KIT LIMITED,SK14 1ND,https://www.militarykit.com,False,1,"[{""vat"": ""205229440"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.militarykit.com/""}]",SITE_NOT_CONFIRMED
+SMALL,14147459,AUMENTAR ADVISERS LIMITED,N3 1XW,http://www.corpscope.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,09830228,TP PRODUCTIONS LIMITED,IG2 6EW,https://tpproductions.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,06093575,BROOKSON (5666E) LIMITED,WA1 1RG,https://brookson.co.uk,True,4,"[{""vat"": ""908326817"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB908326817""}, {""vat"": ""764688475"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB908326817""}, {""vat"": ""896973242"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB908326817""}, {""vat"": ""908436612"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB908326817""}]",
+SMALL,12171230,MADEBYSWISH LTD,CH1 2LF,https://madebyswish.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,15864504,REACH PUBLICITY LTD,FY8 1XP,https://reach-publicity.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,07160048,DEVON BIOFUELS LIMITED,EX17 5BA,https://www.stovedirectory.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,08533380,UK FLOORING DISTRIBUTION LTD,SA11 1NJ,,False,0,[],SEARCH_FAILED
+SMALL,11090101,METSI GROUP LIMITED,NG1 1HS,,False,0,[],SEARCH_FAILED
+SMALL,04379379,GRANITE CONSULTING LIMITED,CM9 5AL,https://graniteconsulting.com,True,0,[],
+SMALL,OC390711,S.PINNA LLP,WC2A 2JR,https://www.pinnamayfair.com,False,0,[],SITE_NOT_CONFIRMED
+SMALL,11766885,KEW BRICKWORK LTD,DH3 3JG,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+SMALL,15338987,JMS CONSTRUCTIONS MIDLANDS LIMITED,B70 6AS,https://rooplex.co.uk,False,0,[],SITE_UNREACHABLE SITE_NOT_CONFIRMED
+SMALL,08414848,SILVER ARC LIMITED,WC2A 1HR,https://silverarc.co.uk,True,1,"[{""vat"": ""316170039"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-check.co.uk/verify/vat_check.php/VATNumber/GB316170039""}]",
+SMALL,08909270,HEXHAM NEW CHURCH,NE46 4RD,https://www.eden.co.uk,False,0,[],SITE_NOT_CONFIRMED
+SMALL,05958120,PRYMAR LIMITED,RG4 8SP,https://www.gbrbusiness.com,False,1,"[{""vat"": ""422160891"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB422160891/CompanyName/PRIMARK+STORES+LTD""}]",SITE_NOT_CONFIRMED
+SMALL,16031846,FITNESS FOR RECOVERY CIC,BB5 6UE,https://www.cictools.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,15986372,ENCHANTING SPIRITS LTD,SW4 0LA,https://www.etsy.com,False,2,"[{""vat"": ""471220622"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB176673174""}, {""vat"": ""176673174"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB176673174""}]",BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,02508458,NEWLAND ROAD RESIDENTS ASSOCIATION LIMITED,OX16 8BL,https://www.pappers.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,13820450,MARSH HARRIER GROUP LTD,CM23 3AG,,False,2,"[{""vat"": ""437816275"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://vat-finder.co.uk/verify/vat_check.php/VATNumber/GB437816275""}, {""vat"": ""991846860"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB991846860""}]",SEARCH_FAILED
+MICRO_CONTROL,16000871,BIRCHFIELD HOLDINGS LIMITED,SY16 2AB,,False,0,[],SEARCH_FAILED
+MICRO_CONTROL,12129110,RT WILLIAMS VEHICLE REPAIR & RECOVERY LIMITED,CF48 2SR,https://www.rt-williams.co.uk,True,0,[],
+MICRO_CONTROL,11003035,LONDON VISION FLAT SHARE LTD,SE1 4HN,https://www.spareroom.co.uk,False,1,"[{""vat"": ""892676272"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.spareroom.co.uk/contact.pl""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,14829789,BLUEBIRD WISDOM LTD,NR6 6DH,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,14471617,M&T SUBCONTRACTOR LTD,NW7 3LL,https://www.pappers.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,06030666,M & P GADSDEN CONSULTING ENGINEERS LTD,LA14 1XA,https://gadsdens.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,01715519,TOPLEVEL DEVELOPMENT LIMITED,BN99 3HH,https://www.companypulse.co.uk,False,1,"[{""vat"": ""132978001"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.companypulse.co.uk/contact""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,15969026,CONVENIENT LAUNDRY LTD,WC2A 2JR,https://laundrylady.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,13514892,A1 GLOBALCARE LTD,ST4 6FF,https://www.chamberofcommerce.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,10405478,MAYNE CONSTRUCTION LTD,KT20 7DY,,False,1,"[{""vat"": ""306188802"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""http://www.vat-lookup.com/verify/vat_check.php/VATNumber/GB306188802""}]",SEARCH_FAILED
+MICRO_CONTROL,09447596,WORKING TITLE PRODUCTIONS LIMITED,WC2H 8NU,https://www.workingtitlefilms.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,00875480,I.P. ELECTRICAL APPLIANCE SERVICES LIMITED,EN10 6DR,,False,0,[],NO_WEBSITE_FOUND
+MICRO_CONTROL,15205934,JCP VENTURES LIMITED,OL6 6QU,https://rooplex.co.uk,False,0,[],SITE_UNREACHABLE SITE_NOT_CONFIRMED
+MICRO_CONTROL,11798471,BKAMP PROPERTIES LTD,HA8 7EJ,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,12591103,YAMONI LIMITED,PO11 0BT,,False,0,[],NO_WEBSITE_FOUND
+MICRO_CONTROL,16252321,FIRST PLACE FP LTD,SE2 0PF,https://vnbis.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,13641807,A 2 Z SHIPPING SERVICES LTD,SO17 1PQ,https://www.a2zshipping.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,11502377,EJAZ MOTORS LIMITED,RM6 5TJ,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,06584072,NAMAS HOLDINGS LIMITED,B5 5QH,https://www.northdata.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,15009457,KEYSTONE GOVERNANCE LTD,EC1V 2NX,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,14134065,395 ACTON LANE (LONDON) LIMITED,W3 8NP,https://www.mouseprice.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,13473635,AGC TRANSPORT LTD,LE9 6NU,https://www.bizstats.co.uk,False,1,"[{""vat"": ""393885240"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB393885240""}]",SITE_UNREACHABLE SITE_NOT_CONFIRMED
+MICRO_CONTROL,11654518,RETIREMENT POSTPONED CIC,HP5 1EP,https://www.cictools.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,10643183,CORPORATE DEVELOPMENT RESOURCES LIMITED,NN12 6BS,https://towcester.cylex-uk.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,05962126,CERTIFICATION PARTNER GLOBAL (UK) LTD,BB7 2QP,https://www.bing.com,False,1,"[{""vat"": ""913340850"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB913340850""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,09157024,CY ENGINEERING SOLUTIONS LTD,WA1 1RG,https://cy-engineering.co.uk,False,0,[],LOW_TEXT_JS_SITE SITE_NOT_CONFIRMED
+MICRO_CONTROL,12714253,SIGMA ACCOUNTAX LTD,NN3 6JT,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,16217037,BASELLA LIMITED,W1J 6BY,https://www.subellalondon.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,15469951,ORACLERECRUIT LTD,E10 6JB,https://bringo.co.uk,False,4,"[{""vat"": ""477815250"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://bringo.co.uk/about""}, {""vat"": ""114258732"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB391313073""}, {""vat"": ""870192328"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB391313073""}, {""vat"": ""391313073"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB391313073""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,13640616,PALS 4 PETS LTD,WD6 1GL,https://pals4pets.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,14420894,MODERATE  DRESSES LTD,E14 0PQ,https://www.bing.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,15107616,GLOBAL DEVELOPMENT TRUST LTD,WC2H 9JQ,https://globalindigenoustrust.org,False,2,"[{""vat"": ""778628860"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB778628860""}, {""vat"": ""219385881"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB778628860""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,10636007,LITTON INVESTMENTS LIMITED,DE45 1PT,https://1stdirectory.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,12541545,DEVINE PUB CONSULTANCY LTD,NR31 7LB,https://www.pappers.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,15625267,ZAFFAR ESTATES LIMITED,B34 6AR,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,08327983,ADVANCE EVENT SUPPORT LTD,HP4 1AG,,False,1,"[{""vat"": ""152320845"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB152320845""}]",SEARCH_FAILED
+MICRO_CONTROL,00757163,LEEWARD SECURITIES LIMITED,SA2 9GR,https://www.bizseek.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,14279610,WESTGATE ROTHERHAM SECURITY LIMITED,S60 1AN,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,10611550,LIGHT ASSEMBLY CHURCH,PO7 5UX,https://www.nationslightministries.org,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,07856546,RWC CORPORATE BENEFITS LIMITED,SK8 7JS,https://www.rwcltd.co.uk,False,0,[],LOW_TEXT_JS_SITE SITE_NOT_CONFIRMED
+MICRO_CONTROL,15657890,SHINING LEAFS LTD,IP14 1LN,https://www.ukcompanydir.com,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,15801935,MORRISON COMMUNITY CARE (GILSTON3) HOLDCO LIMITED,SE1 8RT,https://scoriff.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,13239701,ARROW GROUP 360 LTD,WA5 3NR,https://www.arrow360.co.uk,False,3,"[{""vat"": ""396174068"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.arrow360.co.uk/""}, {""vat"": ""997344267"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB997344267/CompanyName/ARROW+GLOBAL+LIMITED""}, {""vat"": ""644188131"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB997344267/CompanyName/ARROW+GLOBAL+LIMITED""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,16042540,S & C WARREN PROPERTY LTD,CF42 5NE,https://sjwarren.co.uk,False,1,"[{""vat"": ""980031541"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB980031541""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,16406181,TRAVELAPP LTD,BB12 0BG,https://burnley.cylex-uk.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,14685304,CONNICE LTD,W12 7RF,https://www.ukhomeinteriors.co.uk,False,1,"[{""vat"": ""738890286"", ""source_type"": ""COMPANY_WEBSITE"", ""source_url"": ""https://www.ukhomeinteriors.co.uk/guides/terms-conditions/""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,13668513,ALNADIR LTD,HG1 1NG,https://www.alnadir.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,16245308,PETER'S FISH LIMITED,BS13 7LU,https://petersfishbar.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,05507419,WILTON CORPORATE SERVICES LIMITED,EC1V 1AW,https://www.bing.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,12116650,FIREAWAY LEICESTER LIMITED,LE1 6SL,https://www.fireaway.co.uk,False,1,"[{""vat"": ""348109203"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB348109203""}]",SITE_NOT_CONFIRMED
+MICRO_CONTROL,10107248,ANVC LTD,BN3 2FA,https://www.anvc.org,False,0,[],SITE_UNREACHABLE SITE_NOT_CONFIRMED
+MICRO_CONTROL,14199310,GHURABA ESTATES LTD,B20 3PS,https://www.companieshousemanager.com,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,08352175,MICHELL'S LIMITED,PR8 6PB,,False,1,"[{""vat"": ""157754182"", ""source_type"": ""SEARCH_SNIPPET"", ""source_url"": ""https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB157754182""}]",SEARCH_FAILED
+MICRO_CONTROL,12296957,SENECA CONSULTING LIMITED,BB7 4BF,https://senecaconsultancy.co.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,11143155,VETERINARY CARDIOLOGY SERVICES LIMITED,LN8 3PA,https://efinder.uk,False,0,[],SITE_NOT_CONFIRMED
+MICRO_CONTROL,02446174,34 HEYFORD AVENUE (MANAGEMENT) LIMITED,SW8 1ED,https://www.bizseek.co.uk,False,0,[],BLOCKED_HTTP_403 SITE_NOT_CONFIRMED
+MICRO_CONTROL,12517552,ROTM LIMITED,WD6 1JD,https://www.northdata.de,False,0,[],SITE_NOT_CONFIRMED
